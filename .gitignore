@@ -17,7 +17,7 @@ Gemfile.lock
 # Temporary files
 FRAMEWORKS.yaml
 */*/.Dockerfile
-*/*/Dockerfile
+#*/*/Dockerfile
 */*/.Makefile
 */*/ip.txt
 */*/cid.txt
